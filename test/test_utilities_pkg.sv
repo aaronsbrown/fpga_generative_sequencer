@@ -1,4 +1,4 @@
-package test_utils_pkg;
+package test_utilities_pkg;
 
   // Task to compare specific bits of two vectors (registers).
   // Displays masked values in hex.
@@ -46,4 +46,4 @@ package test_utils_pkg;
     end
   endtask
 
-endpackage : test_utils_pkg
+endpackage : test_utilities_pkg
