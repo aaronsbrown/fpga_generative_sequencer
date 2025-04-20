@@ -1,0 +1,6 @@
+# Example constraint for Alchitry Cu Clock
+set_io clk P7
+
+# Add other IO constraints for your top module here
+# set_io led[0] J11
+# ... etc ...
